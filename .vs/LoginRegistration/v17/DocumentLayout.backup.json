@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\LoginRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\views\\accountuser\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\views\\accountuser\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\repository\\iregistraionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\repository\\iregistraionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|d:\\mvc\\loginregistration\\loginregistration\\repository\\registraionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1AAEA2-96FE-49E5-805D-9B800E0F51AB}|LoginRegistration\\LoginRegistration.csproj|solutionrelative:loginregistration\\repository\\registraionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRegistraionRepo.cs",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Repository\\IRegistraionRepo.cs",
+              "RelativeDocumentMoniker": "LoginRegistration\\Repository\\IRegistraionRepo.cs",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Repository\\IRegistraionRepo.cs",
+              "RelativeToolTip": "LoginRegistration\\Repository\\IRegistraionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:48:21.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Views\\AccountUser\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "LoginRegistration\\Views\\AccountUser\\AccessDenied.cshtml",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Views\\AccountUser\\AccessDenied.cshtml",
+              "RelativeToolTip": "LoginRegistration\\Views\\AccountUser\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T16:34:42.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "LoginRegistration\\Models\\UserAccount.cs",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Models\\UserAccount.cs",
+              "RelativeToolTip": "LoginRegistration\\Models\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:57:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "LoginRegistration\\Program.cs",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Program.cs",
+              "RelativeToolTip": "LoginRegistration\\Program.cs",
+              "ViewState": "AgIAAA4AAABAMzMzMzMrwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:04:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogInVM.cs",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\ViewModel\\LogInVM.cs",
+              "RelativeDocumentMoniker": "LoginRegistration\\ViewModel\\LogInVM.cs",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\ViewModel\\LogInVM.cs",
+              "RelativeToolTip": "LoginRegistration\\ViewModel\\LogInVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:43:27.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginRegistration\\appsettings.json",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\appsettings.json",
+              "RelativeToolTip": "LoginRegistration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T11:20:37.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistraionRepo.cs",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Repository\\RegistraionRepo.cs",
+              "RelativeDocumentMoniker": "LoginRegistration\\Repository\\RegistraionRepo.cs",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Repository\\RegistraionRepo.cs",
+              "RelativeToolTip": "LoginRegistration\\Repository\\RegistraionRepo.cs",
+              "ViewState": "AgIAAAQAAAAANDMzMzMLwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:47:51.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountUserController.cs",
+              "DocumentMoniker": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Controllers\\AccountUserController.cs",
+              "RelativeDocumentMoniker": "LoginRegistration\\Controllers\\AccountUserController.cs",
+              "ToolTip": "D:\\MVC\\LoginRegistration\\LoginRegistration\\Controllers\\AccountUserController.cs",
+              "RelativeToolTip": "LoginRegistration\\Controllers\\AccountUserController.cs",
+              "ViewState": "AgIAAAsAAACAMDMzMzMbwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:28:55.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
